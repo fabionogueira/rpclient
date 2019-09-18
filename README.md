@@ -1,6 +1,6 @@
-#usage
+# usage
 
-``` bash
+``` shell
 npm install rpclient
 
 ```

@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/fabionogueira/rpclient",
+    "type": "git"
+  },
   "author": "Fabio Nogueira <fabio.bacabal@gmail.com>",
   "license": "ISC"
 }
